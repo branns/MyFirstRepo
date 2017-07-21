@@ -1,0 +1,23 @@
+h1 {
+			font-size: 60px;
+			text-align: center;
+			color: white;
+			background: black;
+		}
+.right {
+			float: right;
+			margin-left: 700px;
+			margin-top: 10px;
+}
+
+img {
+    float: left;
+    width: 200px
+}
+
+p {
+	width: 600px;
+	text-align: justify;
+}
+
+background-color: #efeee7;
